@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={127:e=>{e.exports=require("express")}},r={};function o(s){var t=r[s];if(void 0!==t)return t.exports;var n=r[s]={exports:{}};return e[s](n,n.exports,o),n.exports}(()=>{const e=o(127)();e.get("/",((e,r)=>{r.send("Hello World!")})),e.listen(3e3,(()=>console.log("ok 3000")))})()})();
