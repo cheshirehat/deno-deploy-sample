@@ -2,7 +2,7 @@
   "name": "webpack-express",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "ssh://git@github.com/cheshirehat/deno-deploy-sample.git",
+  "repository": "ssh://git@github.com/cheshirehat/webpack-express.git",
   "author": "cheshirehat <cheshireinhatter@gmail.com>",
   "license": "MIT",
   "scripts": {
