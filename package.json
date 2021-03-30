@@ -1,5 +1,5 @@
 {
-  "name": "deno-deploy-sample",
+  "name": "webpack-express",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "ssh://git@github.com/cheshirehat/deno-deploy-sample.git",
